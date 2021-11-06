@@ -1,0 +1,17 @@
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Services.deps.json
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Services.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ref\ECommerce.Services.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Services.pdb
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Data.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Entities.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Data.pdb
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\bin\Debug\net5.0\ECommerce.Entities.pdb
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.csproj.AssemblyReference.cache
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.AssemblyInfoInputs.cache
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.AssemblyInfo.cs
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.csproj.CoreCompileInputs.cache
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.csproj.CopyComplete
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ref\ECommerce.Services.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.pdb
