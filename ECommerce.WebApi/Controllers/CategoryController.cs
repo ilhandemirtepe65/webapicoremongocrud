@@ -68,11 +68,9 @@ namespace ECommerce.WebApi.Controllers
 
         [HttpPut]
         [ProducesResponseType(typeof(Category), (int)HttpStatusCode.OK)]
-        public async Task<IActionResult> UpdateCategory([FromBody] CategoryDto categorydto)
-        {
-
-            var categoryMapper = _mapper.Map<Category>(categorydto);
-            return Ok(await _categoryRepository.Update(categoryMapper));
+        public async Task<IActionResult> UpdateCategory([FromBody] Category category)
+        {   
+            return Ok(await _categoryRepository.Update(category));
         }
         [HttpDelete("{id:length(24)}")]
         [ProducesResponseType(typeof(Category), (int)HttpStatusCode.OK)]

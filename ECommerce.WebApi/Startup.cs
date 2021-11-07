@@ -12,7 +12,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
-
 namespace ECommerce.WebApi
 {
     public class Startup
@@ -50,6 +49,12 @@ namespace ECommerce.WebApi
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ECommerce.WebApi", Version = "v1" });
+            });
+
+
+            services.AddDistributedRedisCache(option =>
+            {
+                option.Configuration = Configuration["RedisCache:ConnectionString"];
             });
         }
 

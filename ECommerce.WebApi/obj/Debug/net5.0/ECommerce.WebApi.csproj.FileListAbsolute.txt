@@ -50,3 +50,11 @@ C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\Auto
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Redis.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\ServiceStack.Redis.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\StackExchange.Redis.StrongName.dll
+C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
