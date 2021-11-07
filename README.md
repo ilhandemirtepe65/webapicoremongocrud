@@ -13,6 +13,11 @@
   *  Object Oriented Programing
   *  Generic Repository Pattern
   *  Solid Prensipleri
+ ## Redise Yazma Ve Okuma İşlemleri
+ ![image](https://user-images.githubusercontent.com/80510214/140640655-0d37a1f4-6e7c-4f73-8f30-fc38eb00e7d6.png)
+![image](https://user-images.githubusercontent.com/80510214/140640683-0e4afa3f-3fae-4fc5-8276-f221746302be.png)
+
+
 
  ## Kategori Crud İşlemleri
 ![image](https://user-images.githubusercontent.com/80510214/140624154-93ac8f4a-0e49-47a9-859b-821c90c716db.png)
