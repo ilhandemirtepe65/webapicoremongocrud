@@ -15,3 +15,20 @@ C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\EC
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ref\ECommerce.Services.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Services.deps.json
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Services.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ref\ECommerce.Services.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Services.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Data.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Entities.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Data.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\bin\Debug\net5.0\ECommerce.Entities.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.csproj.AssemblyReference.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.AssemblyInfoInputs.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.AssemblyInfo.cs
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.csproj.CoreCompileInputs.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.csproj.CopyComplete
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ref\ECommerce.Services.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Services\obj\Debug\net5.0\ECommerce.Services.pdb

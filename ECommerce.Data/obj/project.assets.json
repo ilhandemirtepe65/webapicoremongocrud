@@ -11,6 +11,18 @@
           "lib/netstandard2.1/DnsClient.dll": {}
         }
       },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/2.1.2": {
         "type": "package",
         "compile": {
@@ -204,6 +216,31 @@
         "lib/netstandard2.0/DnsClient.xml",
         "lib/netstandard2.1/DnsClient.dll",
         "lib/netstandard2.1/DnsClient.xml"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "sha512": "xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.2": {
@@ -464,6 +501,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "ECommerce.Entities >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
       "MongoDB.Driver >= 2.13.2"
     ]
   },
@@ -473,11 +511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+      "projectUniqueName": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj",
       "projectName": "ECommerce.Data",
-      "projectPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+      "projectPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj",
       "packagesPath": "C:\\Users\\Demirtepe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\obj\\",
+      "outputPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Demirtepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -494,8 +532,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj": {
-              "projectPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj"
+            "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj": {
+              "projectPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj"
             }
           }
         }
@@ -510,6 +548,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
           "MongoDB.Driver": {
             "target": "Package",
             "version": "[2.13.2, )"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQk2kvoBvx6BvaZrafyrmAsm1IFBzHlur8jVEN0ff60Yx5KDFAlQkpqYj+AsdSJg5+/RwErDHFWZOLuUD3iaEw==",
+  "dgSpecHash": "dYI8sjhkU+zjF3e5agI8+GHAw3LPTAfyivVpCq2M+gOsrCuVxlp5fC6ZfmmfMpASo4K7t/s+ii3lKn/5p2E3PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj",
+  "projectFilePath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Demirtepe\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Demirtepe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

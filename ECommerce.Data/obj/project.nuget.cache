@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MwU9A4Qep6K/0XDJMLro/K/FRqDKFN/E14QCM9IsHQbh29B7Th/MbBavnVpADyGWkqDK7kHxIAvA0+8FVFddXA==",
+  "dgSpecHash": "zaWRdOqxIUPQMxyK/PW/cSht7hBd1+V8AiaZQBR6m8bhfkXpnPqZOgzQnHbsIDikh4pxKhMbKEem78b9O89eSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+  "projectFilePath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Demirtepe\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\Demirtepe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Demirtepe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Demirtepe\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
     "C:\\Users\\Demirtepe\\.nuget\\packages\\mongodb.driver\\2.13.2\\mongodb.driver.2.13.2.nupkg.sha512",

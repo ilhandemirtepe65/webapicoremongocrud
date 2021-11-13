@@ -9,3 +9,15 @@ C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Entities\obj\Debug\net5.0\EC
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Entities\obj\Debug\net5.0\ref\ECommerce.Entities.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\bin\Debug\net5.0\ECommerce.Entities.deps.json
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\bin\Debug\net5.0\ECommerce.Entities.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\bin\Debug\net5.0\ref\ECommerce.Entities.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\bin\Debug\net5.0\ECommerce.Entities.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.csproj.AssemblyReference.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.AssemblyInfoInputs.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.AssemblyInfo.cs
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.csproj.CoreCompileInputs.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ref\ECommerce.Entities.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Entities\obj\Debug\net5.0\ECommerce.Entities.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj": {}
+    "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj": {
+    "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj",
+        "projectUniqueName": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj",
         "projectName": "ECommerce.Entities",
-        "projectPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj",
+        "projectPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj",
         "packagesPath": "C:\\Users\\Demirtepe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\obj\\",
+        "outputPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Demirtepe\\AppData\\Roaming\\NuGet\\NuGet.Config",

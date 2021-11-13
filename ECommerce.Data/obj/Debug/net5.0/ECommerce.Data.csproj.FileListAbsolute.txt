@@ -13,3 +13,18 @@ C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Data\obj\Debug\net5.0\EComme
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ref\ECommerce.Data.dll
 C:\Users\Demirtepe\source\repos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.deps.json
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\bin\Debug\net5.0\ref\ECommerce.Data.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\bin\Debug\net5.0\ECommerce.Entities.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\bin\Debug\net5.0\ECommerce.Entities.pdb
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.csproj.AssemblyReference.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.AssemblyInfoInputs.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.AssemblyInfo.cs
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.csproj.CopyComplete
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ref\ECommerce.Data.dll
+C:\ilhan Project\webapicoremongocrud\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.pdb

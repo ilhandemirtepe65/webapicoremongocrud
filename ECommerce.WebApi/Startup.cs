@@ -1,10 +1,13 @@
+using ECommerce.Data;
 using ECommerce.Data.Abstract;
 using ECommerce.Data.Concrete;
 using ECommerce.Data.Settings;
+using ECommerce.Services;
 using ECommerce.Services.Abstract;
 using ECommerce.Services.Concrete;
 using ECommerce.WebApi.Mapper;
 using FluentValidation.AspNetCore;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -12,6 +15,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
+using System.Reflection;
+
 namespace ECommerce.WebApi
 {
     public class Startup
@@ -32,14 +37,17 @@ namespace ECommerce.WebApi
 
             services.Configure<ProductDatabaseSettings>(Configuration.GetSection(nameof(ProductDatabaseSettings)));
             services.AddSingleton<IProductDatabaseSettings>(sp => sp.GetRequiredService<IOptions<ProductDatabaseSettings>>().Value);
-            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-            services.AddScoped<IProductService, ProductService>();
-            services.AddScoped<ICategoryService, CategoryService>();
+
+            DataRegistration.AddApplicationRegister(services);
+            ServiceRegistration.AddApplicationRegister(services);
             #endregion
 
-            services.AddAutoMapper(typeof(ECommerceProfile));
+            //services.AddAutoMapper(typeof(ECommerceProfile));
 
+            var assm = Assembly.GetExecutingAssembly();
 
+            services.AddAutoMapper(assm);
+            services.AddMediatR(assm);
 
             services.AddControllers().AddFluentValidation(s =>
             {

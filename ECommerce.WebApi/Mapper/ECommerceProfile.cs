@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using ECommerce.Entities.Catalog;
+using ECommerce.WebApi.Commands.Models.Catalog;
 using ECommerce.WebApi.DataTransferObject;
+using ECommerce.WebApi.Queries.Models.Catalog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +15,13 @@ namespace ECommerce.WebApi.Mapper
     {
         public ECommerceProfile()
         {
-            CreateMap<Product, ProductDto>().ReverseMap();
+           
+
             CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<Category, AddCategoryCommand>().ReverseMap();
+            CreateMap<Category, UpdateCategoryCommand>().ReverseMap();
+
+            CreateMap<Product, ProductDto>().ReverseMap();
 
 
         }

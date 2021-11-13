@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {}
+    "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+    "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectUniqueName": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj",
         "projectName": "ECommerce.Data",
-        "projectPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\ECommerce.Data.csproj",
         "packagesPath": "C:\\Users\\Demirtepe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Data\\obj\\",
+        "outputPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Demirtepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj": {
-                "projectPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj"
+              "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj": {
+                "projectPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj"
               }
             }
           }
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.13.2, )"
@@ -68,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj": {
+    "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj",
+        "projectUniqueName": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj",
         "projectName": "ECommerce.Entities",
-        "projectPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\ECommerce.Entities.csproj",
+        "projectPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\ECommerce.Entities.csproj",
         "packagesPath": "C:\\Users\\Demirtepe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Demirtepe\\source\\repos\\ECommerce\\ECommerce.Entities\\obj\\",
+        "outputPath": "C:\\ilhan Project\\webapicoremongocrud\\ECommerce.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Demirtepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
